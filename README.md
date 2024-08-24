@@ -24,7 +24,7 @@ This project is a **Website Clone** created using Python. It allows you to clone
 
 1. Clone this repository to your local machine:
     ```sh
-    git clone https://github.com/sharatkvs/web_clone
+    git clone [https://github.com/raju702/cloned_site.git]
     ```
 
 2. Navigate to the project directory:
